@@ -366,14 +366,3 @@ Foi possível observar:
 As versões sem controle de concorrência demonstraram claramente como o acesso simultâneo pode gerar inconsistências e perda de dados.
 
 Já as versões sincronizadas mostraram a importância dos mecanismos de controle para garantir integridade e segurança no acesso às estruturas compartilhadas.
-
----
-
-# 9. Referências
-
-- SILBERSCHATZ, Abraham. Sistemas Operacionais.
-- TANENBAUM, Andrew. Sistemas Operacionais Modernos.
-- Documentação POSIX Threads.
-- Documentação POSIX Semaphores.
-- Slides da disciplina Sistemas Operacionais – UFAM.
-- OpenAI ChatGPT como ferramenta auxiliar para organização textual e explicações conceituais.
