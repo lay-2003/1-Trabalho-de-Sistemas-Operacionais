@@ -276,18 +276,17 @@ Estrutura utilizada no projeto:
 trabalho-so-concorrencia/
 │
 ├── README.md
-├── relatorio/
-│   └── relatorio.md
+├── Relatorio.md
 │
 ├── leitores_escritores/
-│   ├── versao1_leitura_suja.c
-│   ├── versao2_prioridade_escritor.c
-│   └── versao3_sem_controle.c
+│   ├── versao1.c
+│   ├── versao2.c
+│   └── versao3.c
 │
 ├── produtores_consumidores/
-│   ├── versao1_varios_produtores.c
-│   ├── versao2_varios_produtores_consumidores.c
-│   └── versao3_sem_controle.c
+│   ├── versao1.c
+│   ├── versao2.c
+│   └── versao3.c
 │
 └── imagens/
     ├── execucao_leitores.png
